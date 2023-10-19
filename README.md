@@ -1,5 +1,7 @@
 # ETH101---Multisig-Wallet
 
+Language: solidity
+
 In this __blockchain development__ project, a __Multisig Wallet Smart Contract__ is built using __solidity__. A multisig wallet is a wallet where multiple “signatures” or approvals are needed for an outgoing transfer to take place. it requires at least 2 of us to sign any transfer before it happens. Anyone can deposit funds into this wallet. But as soon as we want to spend funds, it requires approvals from two out of three owners.
  
 Here are the __requirements__ of the wallet:
